@@ -1,5 +1,5 @@
 # Profesional-BOT
-Profesional-BOT is a discord bot which utilizes the discord.py library (https://github.com/Rapptz/discord.py). It is designed
+Profesional-BOT is a discord bot which utilizes the discord.py library (https://github.com/LucyCoderr). It is designed
 to improve moderation efforts as well as to offer some fun commands for ordinary users to take advantage of.
 
 ## Modules
